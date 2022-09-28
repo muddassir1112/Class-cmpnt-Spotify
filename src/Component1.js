@@ -13,7 +13,7 @@ function Component1() {
               <a href="#news"> Sign Up</a>
             </li>
             <li>
-              <a href="#contact" style={{borderRight:"2px solid white;"}}>Download</a>
+              <a href="#contact" style={{borderRight:"2px solid white"}}>Download</a>
             </li>
             <li>
               <a href="#about">Support</a>
