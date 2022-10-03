@@ -12,22 +12,22 @@ export default class Component2 extends Component {
         <div className="body">
           <h2 style={{ textAlign: "center" }}>The Power Of Premium</h2>
           <div className="row">
-            <div className="col1">
+            <div>
               <img src={img1} />
               <h3>Add free music listening</h3>
               <h6 className="heading">Enjoy uniterrupted music</h6>
             </div>
-            <div className="col2">
+            <div>
               <img src={img2} />
               <h3>Offline playback</h3>
               <h6 className="heading">Save your data by listening offline</h6>
             </div>
-            <div className="col3">
+            <div>
               <img src={img3} />
               <h3>Play everywhere</h3>
               <h6 className="heading">Listen on your speakers,TV and other favourite devices.</h6>
             </div>
-            <div className="col4">
+            <div>
               <img src={img4} />
               <h3>Pay your way</h3>
               <h6 className="heading">Prepay with Paytm,UPI and more.</h6>

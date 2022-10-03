@@ -30,7 +30,7 @@ export default class Component4 extends Component {
                 <li className="li2">Download 30 songs on 1 mobile device</li>
               </ul>
               
-              <br></br><br></br><br></br><br></br>
+              <br></br><br></br><br></br><br></br><br></br>
               <button className="btn4">View Plans</button>
               <p className="para1"><a href="#" style={{color:"black"}}>Terms and Conditions apply.</a></p>
             </div>
@@ -52,8 +52,7 @@ export default class Component4 extends Component {
                 <li className="li2">Group Session</li>
                 <li className="li2">Download 10K songs/devices on 5 devices</li>
               </ul>
-              
-              <br></br><br></br><br></br><br></br> 
+              <br></br><br></br><br></br><br></br><br></br>
               <button className="btn4">View Plans</button>
               <p className="para1"><a href="#" style={{color:"black"}}>Terms and Conditions apply.</a>1 month free not available for users who have already tried premium.</p>
             </div>
@@ -100,7 +99,7 @@ export default class Component4 extends Component {
                 <li className="li2">Group Session</li>
                 <li className="li2">Download 10K songs/devices on 5 mobile devices</li>
               </ul>
-              <br></br><br></br>
+              <br></br>
               <button className="btn4">View Plans</button>
               <p className="para1"><a href="#" style={{color:"black"}}>Terms and Conditions apply.</a>1 month free not available for users who have already tried premium.</p>
             </div>
